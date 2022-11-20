@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ingestor",
+    "\\Ingestor\\DataIngestor",
+    "\\Ingestor\\DataIngestor\\Properties",
+    "\\Ingestor\\DataIngestor\\Properties\\ServiceDependencies",
+    "\\Ingestor\\DataIngestor\\Properties\\ServiceDependencies\\ab2sdigitaltwinsingestor - Zip Deploy",
+    "\\Ingestor\\DataIngestor\\Properties\\ServiceDependencies\\fleetdataingestor - Zip Deploy",
+    "\\Simulator",
+    "\\Simulator\\TrailerSimulator1",
+    "\\Simulator\\TrailerSimulator1\\DeviceSimulator",
+    "\\Simulator\\TrailerSimulator1\\DeviceSimulator\\Properties"
+  ],
+  "SelectedNode": "\\FleetModels\\truckInterface.json",
+  "PreviewInSolutionExplorer": false
+}
